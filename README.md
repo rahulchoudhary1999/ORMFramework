@@ -158,7 +158,7 @@ Following are the methods of Query class:
          
 Implementation(how to perform operations) :
 -------------------------------------------
-1)First Example will show you how to do save operations.
+1)First Example will show you how to do save operation.
 
 ```
 import java.text.*;
@@ -202,7 +202,7 @@ System.out.println(e);
 }
 }
 ```
-2)Second Example will show you how to do update operations.
+2)Second Example will show you how to do update operation.
 
 ```
 import java.text.*;
@@ -240,7 +240,7 @@ System.out.println(e);
 }
 }
 ```
-3)Third Example will show you how to do delete operations.
+3)Third Example will show you how to do delete operation.
 
 ```
 import java.text.*;
@@ -271,7 +271,7 @@ System.out.println(e);
 }
 }
 ```
-4)Fourth Example will show you how to do retrieval operations.
+4)Fourth Example will show you how to do retrieval operation.
 
 ```
 import java.text.*;
