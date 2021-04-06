@@ -1,6 +1,6 @@
 # ORMFramework
 
-*A java based framework for Object Relational Mapping. TMORM Framework is specifically designed for MySQL Database Management System.*
+*A java based framework for Object Relational Mapping. ORMFramework is specifically designed for MySQL Database Management System.*
 
 ## Getting Started
 
